@@ -21,7 +21,7 @@ Klaim dan belinya disiniii 👇
 spf.shopee.co.id/10uXiePWwq
 spf.shopee.co.id/10uXiePWwq
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir
+t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir gary Iskak Raisa 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -38,4 +38,5 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek grat
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
