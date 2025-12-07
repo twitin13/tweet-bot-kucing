@@ -17,11 +17,11 @@ const client = new TwitterApi({
 Max 30rb 💌
 * Semua resto, pesanan terjadwal
 
-Klaim dan belinya disiniii 👇
-spf.shopee.co.id/10uXiePWwq
-spf.shopee.co.id/10uXiePWwq
+Klaim dan belinya disinii 👇
+https://spf.shopee.co.id/AUminioxX9
+https://spf.shopee.co.id/AUminioxX9
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir gary Iskak Raisa 
+t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir amanda zahra minggu besok senin sarapan 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -38,5 +38,6 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek grat
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
