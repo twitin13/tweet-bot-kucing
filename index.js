@@ -13,15 +13,14 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-‼️ ShopeeFood DISKON 100%
-Max 30rb 💌
-* Semua resto, pesanan terjadwal
+WINGSTOP SHOPEEFOOD DISKON jadi 5K aja Combo 3 Boneless 🤤🍗
 
-Klaim dan belinya disinii 👇
-https://spf.shopee.co.id/AUminioxX9
-https://spf.shopee.co.id/AUminioxX9
+‼️ Klaim voucher nya sebelum habis 👇
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir amanda zahra minggu besok senin sarapan 
+spf.shopee.co.id/3qHIXWHNYG
+spf.shopee.co.id/3qHIXWHNYG
+
+Jual beli daget gofood grabfood kode promo go grab shopee food sfood malam minggu gojek 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -38,6 +37,7 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek grat
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
 
